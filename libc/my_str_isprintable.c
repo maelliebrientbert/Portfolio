@@ -5,6 +5,8 @@
 ** my_str_isprintable
 */
 
+#include "my.h"
+
 int my_str_isprintable(char const *str)
 {
     int index = 0;
