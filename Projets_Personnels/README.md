@@ -1,1 +1,1 @@
-Contiendras mes projets personnels par thémes abordés.
+Contiendras mes projets personnels par thèmes abordés.
