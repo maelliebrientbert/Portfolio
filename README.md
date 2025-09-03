@@ -1,2 +1,2 @@
 # Portfolio
-Will contain documentation about my school projects that are interesting and personal projects.
+Contiendras la documentation sur mes projets scolaires qui sont intéressants et mes projets personnels.
