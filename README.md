@@ -1,2 +1,2 @@
 # Portfolio
-Contiendra la documentation sur mes projets scolaires qui sont intéressants et mes projets personnels.
+Contient la documentation de mes projets que je réalise en dehors de mes cours afin d'améliorer mes compétences et de réviser ces derniéres.
